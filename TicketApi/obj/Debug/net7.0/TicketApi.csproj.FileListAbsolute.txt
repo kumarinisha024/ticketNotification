@@ -1,0 +1,6 @@
+/Users/abhisheknagpal/Documents/Projects/TicketNotification/TicketApi/obj/Debug/net7.0/TicketApi.csproj.AssemblyReference.cache
+/Users/abhisheknagpal/Documents/Projects/TicketNotification/TicketApi/obj/Debug/net7.0/TicketApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abhisheknagpal/Documents/Projects/TicketNotification/TicketApi/obj/Debug/net7.0/TicketApi.AssemblyInfoInputs.cache
+/Users/abhisheknagpal/Documents/Projects/TicketNotification/TicketApi/obj/Debug/net7.0/TicketApi.AssemblyInfo.cs
+/Users/abhisheknagpal/Documents/Projects/TicketNotification/TicketApi/obj/Debug/net7.0/TicketApi.csproj.CoreCompileInputs.cache
+/Users/abhisheknagpal/Documents/Projects/TicketNotification/TicketApi/obj/Debug/net7.0/TicketApi.MvcApplicationPartsAssemblyInfo.cache
